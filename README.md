@@ -76,8 +76,8 @@ This command builds the Docker images (if not already built) and starts the serv
 ```json
 {
   "email": "user@example.com",
-  "firstName": "John",
-  "lastName": "Doe"
+  "first_name": "John",
+  "last_name": "Doe"
 }
 ```
 
